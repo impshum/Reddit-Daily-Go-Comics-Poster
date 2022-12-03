@@ -1,6 +1,6 @@
 # Reddit Daily Go Comics Poster
 
-A scheduled script to upload images to Reddit using the filename as the title (set and forget).
+A scheduled script to upload images to Reddit from Go Comics.
 
 ![](images/ss.jpg)
 
