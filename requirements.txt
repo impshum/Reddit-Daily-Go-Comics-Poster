@@ -1,0 +1,4 @@
+praw
+configparser
+BeautifulSoup4
+schedule
